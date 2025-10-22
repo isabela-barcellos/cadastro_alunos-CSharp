@@ -1,0 +1,44 @@
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.exe
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.deps.json
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.runtimeconfig.json
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.dll
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.pdb
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Exibir.g.cs
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos_MarkupCompile.cache
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos_MarkupCompile.lref
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Exibir.baml
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.g.resources
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.dll
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\refint\Cadastro Alunos.dll
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.pdb
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.genruntimeconfig.cache
+C:\Users\labsfiap\source\repos\Cadastro Alunos\Cadastro Alunos\obj\Debug\net8.0-windows\ref\Cadastro Alunos.dll
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.exe
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.deps.json
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.runtimeconfig.json
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.dll
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\bin\Debug\net8.0-windows\Cadastro Alunos.pdb
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Exibir.g.cs
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos_MarkupCompile.cache
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos_MarkupCompile.lref
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Exibir.baml
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.g.resources
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.AssemblyInfoInputs.cache
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.AssemblyInfo.cs
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.csproj.CoreCompileInputs.cache
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.dll
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\refint\Cadastro Alunos.dll
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.pdb
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\Cadastro Alunos.genruntimeconfig.cache
+C:\Users\isabe\Downloads\Cadastro_Alunos_completo\Cadastro Alunos\obj\Debug\net8.0-windows\ref\Cadastro Alunos.dll
